@@ -1,0 +1,35 @@
+Token: iden Lexeme: x 
+Token: whitespace Lexeme:   
+Token: = Lexeme: = 
+Token: whitespace Lexeme:   
+Token: numeric Lexeme: 3 
+Token: whitespace Lexeme: 
+ 
+Token: iden Lexeme: y 
+Token: whitespace Lexeme:   
+Token: = Lexeme: = 
+Token: whitespace Lexeme:   
+Token: numeric Lexeme: 5 
+Token: whitespace Lexeme: 
+ 
+Token: iden Lexeme: z 
+Token: whitespace Lexeme:   
+Token: = Lexeme: = 
+Token: whitespace Lexeme:   
+Token: ( Lexeme: ( 
+Token: iden Lexeme: x 
+Token: whitespace Lexeme:   
+Token: + Lexeme: + 
+Token: whitespace Lexeme:   
+Token: iden Lexeme: y 
+Token: ) Lexeme: ) 
+Token: whitespace Lexeme:   
+Token: / Lexeme: / 
+Token: whitespace Lexeme:   
+Token: numeric Lexeme: 3 
+Token: whitespace Lexeme: 
+ 
+Token: PRINT Lexeme: print 
+Token: whitespace Lexeme:   
+Token: iden Lexeme: z 
+Lexeme: eof eof Token type: eof 
